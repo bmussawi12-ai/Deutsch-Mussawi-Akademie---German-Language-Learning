@@ -1,0 +1,6 @@
+{
+  "name": "Deutsch Mussawi Akademie - German Language Learning (A1-C2)",
+  "description": "Deutsch Mussawi Akademie - Offizielle Plattform für Deutschkurse von A1 bis C2 mit Grammatik, Wortschatz, Audio und Prüfungstraining.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
